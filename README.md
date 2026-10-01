@@ -34,6 +34,7 @@ My LeetCode solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/codeSudee/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/codeSudee/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/codeSudee/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/codeSudee/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
@@ -51,4 +52,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/codeSudee/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/codeSudee/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
