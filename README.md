@@ -7,6 +7,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codeSudee/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0151-reverse-words-in-a-string](https://github.com/codeSudee/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/codeSudee/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/codeSudee/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/codeSudee/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -14,6 +15,7 @@ My LeetCode solutions
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/codeSudee/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/codeSudee/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/codeSudee/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/codeSudee/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
