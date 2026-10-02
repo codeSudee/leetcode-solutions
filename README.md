@@ -37,6 +37,7 @@ My LeetCode solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/codeSudee/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/codeSudee/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/codeSudee/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/codeSudee/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/codeSudee/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
@@ -47,6 +48,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codeSudee/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/codeSudee/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +62,8 @@ My LeetCode solutions
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/codeSudee/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/codeSudee/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/codeSudee/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
