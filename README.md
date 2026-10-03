@@ -39,6 +39,7 @@ My LeetCode solutions
 | [0283-move-zeroes](https://github.com/codeSudee/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/codeSudee/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/codeSudee/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/codeSudee/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/codeSudee/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
